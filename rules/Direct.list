@@ -1,0 +1,33 @@
+# WeChat
+DOMAIN-KEYWORD,channels
+DOMAIN,channels.weixin.qq.com
+DOMAIN-KEYWORD,goodsunlc
+PROCESS-NAME,WeChat.exe
+PROCESS-NAME,WeChatAppEx.exe
+PROCESS-NAME,WeChatOCR.exe
+PROCESS-NAME,WeChatUtility.exe
+PROCESS-NAME,WeChatPlayer.exe
+PROCESS-NAME,WechatAppLauncher.exe
+
+# Baidunetdisk
+PROCESS-NAME,baidunetdisk.exe
+PROCESS-NAME,baidunetdiskhost.exe
+PROCESS-NAME,yundetectservice.exe
+
+# Huorong Security
+PROCESS-NAME,HipsTray.exe
+PROCESS-NAME,HipsMain.exe
+PROCESS-NAME,HRUpdate.exe
+PROCESS-NAME,HipsLog.exe
+PROCESS-NAME,HipsDaemon.exe
+
+# BitComet
+PROCESS-NAME,BitComet.exe
+
+# QQ
+PROCESS-NAME,QQ.exe
+PROCESS-NAME,QQScreenshot.exe
+
+# Mihomo Party
+PROCESS-NAME,mihomo.exe
+PROCESS-NAME,mihomo-alpha.exe

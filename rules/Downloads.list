@@ -1,0 +1,23 @@
+# Mega
+PROCESS-NAME,MEGAsync.exe
+DOMAIN-KEYWORD,mega
+DOMAIN,mega.nz
+
+# Unlocked Game Resources
+DOMAIN-KEYWORD,uploadhaven
+DOMAIN-KEYWORD,uploadhaven.com
+DOMAIN-KEYWORD,steamunlocked
+
+# Video Downloading Tools
+PROCESS-NAME,youtube-dl.exe
+
+# Civitai
+DOMAIN-KEYWORD,civitai
+DOMAIN,civitai.com
+
+# Hugging Face
+DOMAIN-KEYWORD,huggingface
+
+# Ollama
+PROCESS-NAME,ollama.exe
+PROCESS-NAME,ollama app.exe
